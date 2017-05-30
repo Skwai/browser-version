@@ -1,0 +1,17 @@
+{
+  "name": "browser-version",
+  "version": "1.0.0",
+  "description": "API to get the browser version",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "author": "Cameron <cameron@biteable.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browserslist": "^2.1.4",
+    "express": "^4.15.3",
+    "useragent": "^2.1.13"
+  }
+}
